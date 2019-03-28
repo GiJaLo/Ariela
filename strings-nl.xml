@@ -485,21 +485,24 @@
     <string name="force_vertical_stack">Forceer verticaal gedrag</string>
     <string name="force_vertical_summary">Wanneer deze optie is ingeschakeld, gedragen horizontale stapelkaarten zich als verticale kaarten</string>
 
-    <string name="bluetooth_headphone">Bluetooth-hoofdtelefoon</string>
-    <string name="bluetooth_headphone_summary">Stuur Bluetooth-koptelefoon verbonden apparaatinformatie</string>
+    <string name="bluetooth_headphone">Bluetooth hoofdtelefoon</string>
+    <string name="bluetooth_headphone_summary">Stuur Bluetooth hoofdtelefoon verbonden apparaatinformatie</string>
 
     <string name="bluetooth_a2dp">Bluetooth Media</string>
     <string name="bluetooth_a2dp_summary">Verzend Bluetooth Media (A2DP) aangesloten apparaatinformatie</string>
 
-    <string name="paused_text">paused</string>
+    <string name="paused_text">Gepauzeerd</string>
 
-    <string name="start_app_update">Start after update</string>
-    <string name="start_app_update_summary">Automatic start Ariela when application get\'s updated.</string>
+    <string name="start_app_update">Herstarten na update</string>
+    <string name="start_app_update_summary">Ariela automatisch herstarten na een update</string>
 
+    <string name="logout_text_info">Bent u zeker dat u wilt uitloggen? Uw huidige configuratie zal verloren gaan.</string>
+    <string name="exit_app_text_info">Wilt u Ariela afsluiten?</string>
+                                        
     <string name="home_assistant_servers">Home Assistant servers</string>
     <string name="home_assistant_servers_summary">Manager Home Assistan servers </string>
-    <string name="create_server_text">Create Server</string>
+    <string name="create_server_text">Maak een server aan</string>
     <string name="default_text">Default</string>
-    <string name="error_create_server_text">Please enter a valid server name in order to continue.</string>
-    <string name="active_server_cannot_delete">The active server cannot be deleted.</string>
+    <string name="error_create_server_text">Vul een geldige servernaam in om verder te gaan.</string>                                       
+    <string name="active_server_cannot_delete">De actieve server kan niet worden verwijderd.</string>                                                
 </resources>
