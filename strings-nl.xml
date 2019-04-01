@@ -542,6 +542,6 @@
         <item>2</item>
     </string-array>
 
-    <string name="mqtt_camera_resolution">MQTT Camera Resolution</string>
-    <string name="mqtt_camera_resolution_summary">Choose the MQTT Camera Resolution</string>
+    <string name="mqtt_camera_resolution">MQTT-Camera Resolutie</string>
+    <string name="mqtt_camera_resolution_summary">Kies de MQTT-Camera resolutie</string>
 </resources>
